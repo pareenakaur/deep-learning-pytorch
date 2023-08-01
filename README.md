@@ -1,2 +1,5 @@
-# deep-learning-pytorch
-Deep Learning Project using Pytorch 
+# Deep Learning Project using Pytorch 
+<ul>
+  <li>Image Segmentation</li>
+</ul>
+
